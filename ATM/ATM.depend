@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1793897061 source:c:\users\tuilagi\desktop\new folder\atm\main.c
+	<stdio.h>
+	<stdbool.h>
+
+1793895810 source:c:\users\tuilagi\desktop\new folder\atm\task2.c
+	<stdbool.h>
+
+1793895548 source:c:\users\tuilagi\desktop\new folder\atm\task3.c
+	<stdbool.h>
+
+1793894335 source:c:\users\tuilagi\desktop\new folder\atm\task4.c
+	<stdbool.h>
+
+1793895078 source:c:\users\tuilagi\desktop\new folder\atm\task5.c
+	<stdbool.h>
+
